@@ -1,45 +1,51 @@
-# Привет, мир! 👋
+# 👋 Привет!
 
-Я [Ваше Имя] - разработчик программного обеспечения с опытом работы в различных технологиях. Моя страсть к кодированию и решению сложных задач вдохновляет меня каждый день!
+Меня зовут [Ваше имя], и я увлечённый разработчик, специализирующийся на Java и Spring Framework. Я также имею опыт работы с Redis, SQLite, MySQL и даже с плагинами для Minecraft через API Bukkit.
 
-## 🚀 Используемые технологии
+## 💻 Технологии
 
-- **Языки программирования:**
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+### Языки программирования
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- **Фреймворки:**
-  - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+### Фреймворки и библиотеки
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-- **Базы данных:**
-  - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+### Базы данных
+![SQLite](https://img.shields.io/badge/sqlite-%2307405f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Кэширование:**
-  - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-- **Игровая разработка:**
-  - ![Bukkit](https://img.shields.io/badge/Bukkit-00A82D?style=flat&logo=bukkit&logoColor=white)
-
-## 🌟 Проекты
-
-### [Название проекта 1](ссылка_на_репозиторий)
-Краткое описание проекта, его цели и технологии, которые были использованы.
-
-### [Название проекта 2](ссылка_на_репозиторий)
-Краткое описание проекта, его цели и технологии, которые были использованы.
-
-## 📫 Связаться со мной
-
-- [LinkedIn](ссылка_на_ваш_LinkedIn)
-- [Twitter](ссылка_на_ваш_Twitter)
-- Email: ваш_email@example.com
-
-## 📊 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=radical)
+### Инструменты
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-Спасибо за посещение моего профиля! 😊
+## 📊 Статистика
+
+<details>
+  <summary><b>🔥 GitHub Stats</b></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=[Ваше_имя_пользователя]&show_icons=true&theme=radical)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[Ваше_имя_пользователя]&layout=compact&hide=html,css,javascript)
+</details>
+
+---
+
+## 🎮 Интересы
+
+Помимо разработки, мне нравится играть в видеоигры, особенно в Minecraft. Я создаю плагины на основе API Bukkit, чтобы улучшать игровой процесс и добавлять новые функции.
+
+---
+
+## 📫 Как со мной связаться?
+
+Вы можете написать мне на почту: **[Ваша почта]** или найти меня в социальных сетях:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[Ваш_LinkedIn])
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Ваш_Twitter])
+
+---
+
+Спасибо за визит! Надеюсь, вам понравилось!
